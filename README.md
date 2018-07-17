@@ -15,3 +15,4 @@ https://github.com/vega/vega
 
 https://github.com/vega/vega-tooltip
 
+![How it looks](https://github.com/ermakovpetr/demo-vega-with-tooltip-fashion-mnist/blob/master/demo-vega-with-tooltip-fashion-mnist.png)
