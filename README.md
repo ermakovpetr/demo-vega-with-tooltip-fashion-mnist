@@ -4,7 +4,7 @@ See demo: http://htmlpreview.github.io/?https://github.com/ermakovpetr/demo-vega
 Example 2-d visualization of points in a browser with a tooltip (with a picture).
 
 
-Dataset: fashion mnist после umap:
+Dataset: fashion mnist + umap:
 
 - https://github.com/zalandoresearch/fashion-mnist
 - https://github.com/ermakovpetr/fashion-mnist-images
