@@ -1,14 +1,16 @@
 # demo-vega-with-tooltip-fashion-mnist
-Пример 2-d визуализации точек в браузере с тултипом (с картинкой) при наведени на точки.
+See demo: http://htmlpreview.github.io/?https://github.com/ermakovpetr/demo-vega-with-tooltip-fashion-mnist/blob/master/demo_vega_with_tooltip_fashion_mnist.html
+
+Example 2-d visualization of points in a browser with a tooltip (with a picture).
 
 
-Датасет: fashion mnist после umap:
+Dataset: fashion mnist после umap:
 
 - https://github.com/zalandoresearch/fashion-mnist
 - https://github.com/ermakovpetr/fashion-mnist-images
 
 
-Визуализация: Vega + Vega Tooltip:
+Visualisation: Vega + Vega Tooltip:
 - https://github.com/vega/vega
 - https://github.com/vega/vega-tooltip
 
